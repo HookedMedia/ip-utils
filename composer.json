@@ -28,5 +28,8 @@
         "branch-alias": {
             "dev-default": "1.x-dev"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0.0"
     }
 }
