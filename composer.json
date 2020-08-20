@@ -1,5 +1,5 @@
 {
-    "name": "xrstf/ip-utils",
+    "name": "hookedmedia/ip-utils",
     "description": "small library to deal with IPv4 & IPv6 addresses and subnets",
     "keywords": [
         "ip",
@@ -12,6 +12,10 @@
         {
             "name": "Christoph Mewes",
             "homepage": "http://www.xrstf.de/"
+        },
+        {
+            "name": "ReviewPush LLC",
+            "homepage": "https://reviewpush.com/"
         }
     ],
     "license": "MIT",
